@@ -16,14 +16,19 @@
   border: none;
   border-radius: 8px;
   background-color: #212121;
-  color: #fff;
+  color: #fcf5e5;
   white-space: nowrap;
   display: flex;
+  cursor: pointer;
+}
+
+.profile__add-btn:hover {
+  opacity: 0.8;
 }
 
 .profile__avatar {
   margin-right: 20px;
-  border-radius: 16px;
+  border-radius: 8px;
   height: 190px;
   width: 190px;
 }
@@ -56,6 +61,7 @@
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   max-width: 420px;
+  color: #212121b2;
 }
 
 .profile__edit-btn {
@@ -67,6 +73,12 @@
   gap: 8px;
   align-items: center;
   margin-left: 0;
+  opacity: 0.7;
+  transition: opacity 0.15s ease-in-out;
+}
+
+.profile__edit-btn:hover {
+  opacity: 1;
 }
 
 @media screen and (max-width: 627px) {
@@ -85,6 +97,7 @@
 
   .profile__add-btn {
     margin: 0;
+    width: 100%;
   }
 
   .profile__name {

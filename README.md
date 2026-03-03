@@ -18,6 +18,6 @@ Spots is a responsive profile page that displays a user's information and a gall
 
 ## Figma: [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
 
-## [Live Website]: (https://morganemuller.github.io/se_project_spots/)
+## Live Website: https://morganemuller.github.io/se_project_spots/
 
-## [Project Video]: (https://www.loom.com/share/26e1eb08a1364fc6a02bd7b853ec2e65)
+## Project Video: https://www.loom.com/share/26e1eb08a1364fc6a02bd7b853ec2e65
